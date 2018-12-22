@@ -9,6 +9,9 @@
     </head>
     <body>
         {% include header.html %}
-        {{ content }}
+        <section class="content content--main">
+            {{ content }}
+        </section>
+        {% include projects.html %}
     </body>
 </html>

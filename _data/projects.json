@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Boreal",
+        "description": "A short game made under a week for Newgrounds Pixel Day. Features a dynamic shading system that has since been improved upon",
+        "link_title": "Play it now",
+        "url": "https://www.newgrounds.com/portal/view/669404",
+        "background": "/assets/img/boreal_snow.png",
+        "visible": true
+    },
+    {
+        "title": "Unity 2D Shadows",
+        "description": "A Unity engine asset bundle that allows for fully dynamic real-time, sprite-based 2D shadows and lighting",
+        "link_title": "Get the bundle",
+        "url": "https://github.com/Alx101/Unity2DShadows",
+        "background": "/assets/img/2dshadows.png",
+        "visible": true
+    },
+    {
+        "title": "Polybit Website",
+        "description": "Wordpress powered website with custom theme built for the Polybit game company",
+        "link_title": "Have a look",
+        "url": "http://polybit.se",
+        "background": "/assets/img/polybit_web.png",
+        "visible": false
+    },
+    {
+        "title": "Imperil Website",
+        "description": "Small showcase website to promote the game Imperil, made by Polybit game studios",
+        "link_title": "Have a look",
+        "url": "http://imperil.polybit.se",
+        "background": "/assets/img/imperil_web.png",
+        "visible": true
+    }
+]

@@ -1,0 +1,16 @@
+{% for project in site.data.projects %}
+{% if project.visible %}
+<section class="content content--project project">
+    <div class="project__bg" style="background-image:url({{ project.background }})"></div>
+    <div class="project__content">
+        <div class="project__title">
+            {{ project.title }}
+        </div>
+        <div class="project__description">
+            {{ project.description }}
+        </div>
+        <a href="{{ project.url }}" target="_blank" class="button project__link">{{ project.link_title }}</a>
+    </div>
+</section>
+{% endif %}
+{% endfor %}
