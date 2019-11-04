@@ -29,6 +29,6 @@
         "link_title": "Have a look",
         "url": "http://imperil.polybit.se",
         "background": "/assets/img/imperil_web.png",
-        "visible": true
+        "visible": false
     }
 ]
